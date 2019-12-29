@@ -13,4 +13,4 @@
 
 # Vue
 
-1. 
+1. [vue 中使用微信分享接口](https://github.com/youdeliang/blogs/blob/master/src/Vue/1.md)
