@@ -6,7 +6,7 @@
 3. [深入理解浏览器存储](https://github.com/youdeliang/blogs/blob/master/src/JS/3.md)
 4. [JS异步编程方案总结](https://github.com/youdeliang/blogs/blob/master/src/JS/4.md)
 5. [Javascript浅拷贝和深拷贝](https://github.com/youdeliang/blogs/blob/master/src/JS/5.md)
-6. [深入JS之Promise](https://github.com/youdeliang/blogs/blob/master/src/JS/Promise.md)
+6. [Javascript之Promise](https://github.com/youdeliang/blogs/blob/master/src/JS/Promise.md)
 
 # Css
 
